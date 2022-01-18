@@ -4,7 +4,7 @@ return`
 *│*
 *│▸* Nama : ${fake}
 *│▸* Gender : ${gender}
-*│▸* Hoby : -
+*│▸* Hoby : JB ZeilStore
 *│▸* Owner : ${nomerOwner}
 *│▸* Tgl pembuatan : 25-07-2021
 *│▸* Tgl release : 29-09-2021
@@ -12,15 +12,15 @@ return`
 *│▸* Voice : Nina kawai
 *│*
 *│▸* SCRIPT BY
-*│*   Decode Denpa
-*│*   X-Dev Team
+*│*   ZeilBotz
+*│*   AlyaaXyz?
 *│*   Yogi PW
 *│*   Hexagon
 *│*   Dttaz
 *│*
 *│▸* FEATURE  BY  
-*│*   Decode Denpa
-*│*   Fernazer
+*│*   ZeilBotz
+*│*   AlyaaXyz?
 *│*   X-Dev Team
 *│*   Resta Gamteng
 *│*   Zeeone Ofc
