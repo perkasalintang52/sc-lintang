@@ -261,8 +261,8 @@ return`
 
 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 : 
  ▢  : Dittaz
- ▢  : Nina kawai
- ▢  : Pemuda Teknologi
+ ▢  : ZeilBotz
+ ▢  : AlyaaXyz?
  ▢  : Zeeone ofc
  ▢  : Yudha Perdana
  ▢  : Yogi PW
