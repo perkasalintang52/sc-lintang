@@ -408,8 +408,8 @@ ${week}, ${calender}
 *╭─❲ THANKS TO ❳*
 *│*
 *│* • Dittaz
-*│* • Nina Kawai
-*│* • Resta Gamteng :v
+*│* • ZeilBotz
+*│* • AlyaaXyz?
 *│* • Zeeone Ofc
 *│* • Yudha Perdana
 *│* • Yogi PW
